@@ -407,6 +407,16 @@ h6 {
     margin: 0.75rem;
 }
 
+.mv1 {
+    margin-top: 0.25rem;
+    margin-bottom: 0.25rem;
+}
+
+.mv2{
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
 .mh2 {
     margin-left: .5rem;
     margin-right: .5rem;
@@ -456,6 +466,14 @@ h6 {
 
 .mr0 {
     margin-right: 0;
+}
+
+.mr1{
+    margin-right: 0.25rem;
+}
+
+.mr2{
+    margin-right: 0.5rem;
 }
 
 .mb0 {
@@ -520,4 +538,8 @@ h6 {
 
 .blue {
     background-color: var(--blue);
+}
+
+.red {
+    background-color: red;
 }
