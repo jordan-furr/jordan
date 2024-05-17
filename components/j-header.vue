@@ -1,11 +1,15 @@
 <template>
     <nav>
-        <div class="w-100 flex flex-row pa2">
-          <div class="w-25"></div>
-          <div class="w-75 flex flex-row space-between ">
-            <p>Jordan Furr</p>
-            <p>Contact</p>
-        </div>        
-        </div>
-    </nav>
-</template>
+        <div class="w-100 flex flex-end pv1">
+            <div class="w-75">
+                <div class="flex flex-row space-between ph3">
+                    <div>
+                        <p>Jordan Furr</p>
+                    </div>
+                    <div>
+                        <p>Contact</p>
+                    </div>
+                </div>
+            </div>
+    </div>
+</nav></template>
