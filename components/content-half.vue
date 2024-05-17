@@ -1,5 +1,7 @@
 <template>
-    <div class="w-75 h-100 float-right blue">
-        <p>content</p>
+    <div class="w-75 h-100 float-right">
+        <div class="pa3">
+            <NuxtPage />
+        </div>
     </div>
 </template>

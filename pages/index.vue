@@ -1,5 +1,6 @@
 <template>
-    <div class="pa3">
+    <div class="">
         <p>home</p>
+        <p><NuxtLink to="/web">web</NuxtLink></p>
     </div>
 </template>
