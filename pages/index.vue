@@ -1,6 +1,5 @@
 <template>
-    <div class="">
-        <p>home</p>
-        <p><NuxtLink to="/web">web</NuxtLink></p>
+    <div class="w-100">
+        <img src="/img/jordan.gif" alt="animation">
     </div>
 </template>

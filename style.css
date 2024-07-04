@@ -212,6 +212,10 @@ h6 {
     height: 50%;
 }
 
+.h-25 {
+    height: 25%;
+}
+
 .h-10 {
     height: 10%;
 }
@@ -550,6 +554,9 @@ h6 {
     height: 50px;
 }
 
+.borderbox {
+    box-sizing: border-box;
+}
 
 
 
