@@ -1,9 +1,6 @@
 <template>
-  <div>
-    <j-header />
-    <info-half />
-    <content-half />
-    <j-footer />
+  <div class="h-100vh w-100">
+    <NuxtPage />
   </div>
 </template>
 
