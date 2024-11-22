@@ -1,6 +1,6 @@
 <template>
     <div class="">
-        <p>web</p>
+        <p>projects</p>
         <nuxt-link to="/" class="word-link">
             <p>home</p>
         </nuxt-link>
