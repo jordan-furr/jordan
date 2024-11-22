@@ -676,19 +676,29 @@ h6 {
 /* PROJECT SPECIFIC */
 
 .home-cont {
+    width: 80%;
+    margin: auto;
+}
+
+.star-cont {
     background-image: url('/img/jf-animation-simple.gif');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
+    width: 55%;
     max-height: 100%;
     max-width: 100%;
     margin: auto;
 }
 
-.star {
-    max-height: 100%;
-    max-width: 100%;
-    margin: auto;
+.about-btn {
+    position: absolute;
+    top: 28px;
+    left: 28px;
+}
+
+.white {
+    background-color: white;
 }
 
 .orange {

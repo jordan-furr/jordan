@@ -1,4 +1,12 @@
 <template>
-    <div class="flex h-100 w-100 home-cont pa5 borderbox">
+    <div class="h-100">
+        <div class="h-100 home-cont orange">
+            <div class="h-100 star-cont">
+
+            </div>
+        </div>
+        <div class="about-btn">
+            <p>about</p>
+        </div>
     </div>
 </template>
