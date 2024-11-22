@@ -153,6 +153,10 @@ h6 {
     width: 66.666%;
 }
 
+.w-618 {
+    width: 61.8%;
+}
+
 .w-60 {
     width: 60%;
 }
@@ -231,6 +235,30 @@ h6 {
 
 .h-50 {
     height: 50%;
+}
+
+.h-45 {
+    height: 45%;
+}
+
+.h-40 {
+    height: 40%;
+}
+
+.h-35 {
+    height: 35%;
+}
+
+.h-30 {
+    height: 30%;
+}
+
+.h-25 {
+    height: 25%;
+}
+
+.h-20 {
+    height: 20%;
 }
 
 .h-10 {
@@ -676,7 +704,7 @@ h6 {
 /* PROJECT SPECIFIC */
 
 .home-cont {
-    width: 80%;
+    width: 82%;
     margin: auto;
 }
 
@@ -689,6 +717,30 @@ h6 {
     max-height: 100%;
     max-width: 100%;
     margin: auto;
+}
+
+.star-word-cont {
+    width: 50%;
+}
+
+.star-word.essays {
+    float: right;
+    width: 60%;
+}
+
+.star-word.web {
+    float: right;
+    width: 52%;
+}
+
+.star-word.news {
+    float: right;
+    width: 36%;
+}
+
+.star-word p {
+    color: black;
+    text-decoration: none;
 }
 
 .about-btn {
@@ -714,6 +766,48 @@ h6 {
     color: white;
 }
 
-.spacer {
-    height: 40px;
+
+@media (max-width: 1400px) {
+    .home-cont {
+        width: 90%;
+    }
+}
+
+@media (max-width: 1200px) {
+    .home-cont {
+        width: 100%;
+    }
+    .star-cont {
+        width: 60%;
+    }
+}
+
+@media (max-width: 1100px) {
+    .star-cont {
+        width: 65%;
+    }
+}
+
+@media (max-width: 900px) {
+    .star-cont {
+        width: 75%;
+    }
+}
+
+@media (max-width: 750px) {
+    .star-cont {
+        width: 85%;
+    }
+}
+
+@media (max-width: 640px) {
+    .star-cont {
+        width: 94%;
+    }
+}
+
+@media (max-width: 480px) {
+    .star-cont {
+        width: 100%;
+    }
 }
