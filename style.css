@@ -675,12 +675,22 @@ h6 {
 
 /* PROJECT SPECIFIC */
 
+.home-cont {
+    background-image: url('/img/jf-animation-simple.gif');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    max-height: 100%;
+    max-width: 100%;
+    margin: auto;
+}
 
 .star {
     max-height: 100%;
     max-width: 100%;
     margin: auto;
 }
+
 .orange {
     background-color: var(--orange);
 }
@@ -693,6 +703,7 @@ h6 {
     margin-left: 10px;
     color: white;
 }
+
 .spacer {
     height: 40px;
 }

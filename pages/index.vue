@@ -1,5 +1,4 @@
 <template>
-    <div class="h-100 flex align-center pa3 borderbox">
-        <img class="star" src="/img/jordan.gif" alt="animation">
+    <div class="flex h-100 w-100 home-cont pa5 borderbox">
     </div>
 </template>
