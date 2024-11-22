@@ -2,5 +2,8 @@
 export default defineNuxtConfig({
   devtools: { enabled: true },
   css: ['~/style.css'],
-  compatibilityDate: '2024-11-22'
+  compatibilityDate: '2024-11-22',
+  nitro: {
+    preset: 'netlify',
+  },
 })
